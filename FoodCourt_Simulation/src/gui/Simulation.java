@@ -14,7 +14,7 @@ import javax.swing.JFrame;
 public class Simulation {
 
 	public static void main(String[] args) {
-		JFrame frame = new JFrame("sim");
+		JFrame frame = new JFrame("Food Court");
 		GUISimulation panel = new GUISimulation();
 		
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
