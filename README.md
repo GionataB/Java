@@ -5,7 +5,7 @@ Every class comes with comments: while I did not generate javadocs for all of th
 
 Since most, or all, of these projects were originally done as class projects, some interface files are not mine. However, mine is the implementation of the actual classes.
 
-##Table of Contents
+## Table of Contents
 
 | Name |
 |------|
